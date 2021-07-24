@@ -1,5 +1,5 @@
 # Exam-Onedee-frontend
-![Uploading Screen Shot 2564-07-24 at 17.32.43.png…]()
+![Screen Shot 2564-07-24 at 17 34 20](https://user-images.githubusercontent.com/37680262/126865847-10ce7bdf-4840-4e98-87de-e22868070180.png)
 ## Build Setup
 Using npm:
 ```bash
