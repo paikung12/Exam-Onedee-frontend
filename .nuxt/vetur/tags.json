@@ -1,0 +1,29 @@
+{
+  "Froms": {
+    "description": "Auto imported from components/Froms.vue"
+  },
+  "Inspire": {
+    "description": "Auto imported from components/Inspire.vue"
+  },
+  "NuxtLogo": {
+    "description": "Auto imported from components/NuxtLogo.vue"
+  },
+  "Pokemon": {
+    "description": "Auto imported from components/Pokemon.vue"
+  },
+  "PokemonList": {
+    "description": "Auto imported from components/PokemonList.vue"
+  },
+  "Shop": {
+    "description": "Auto imported from components/Shop.vue"
+  },
+  "Tutorial": {
+    "description": "Auto imported from components/Tutorial.vue"
+  },
+  "VuetifyLogo": {
+    "description": "Auto imported from components/VuetifyLogo.vue"
+  },
+  "Test": {
+    "description": "Auto imported from components/test.vue"
+  }
+}
